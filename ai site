@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IA du Futur</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenue dans le Futur de l'IA</h1>
+        <p>Découvrez les possibilités infinies de l'intelligence artificielle</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#presentation">Présentation</a></li>
+            <li><a href="#applications">Applications</a></li>
+            <li><a href="#futur">Le Futur</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="presentation">
+        <h2>Présentation de l'IA</h2>
+        <p>L'intelligence artificielle révolutionne notre monde de manière inimaginable. Découvrez son impact sur la société.</p>
+    </section>
+
+    <section id="applications">
+        <h2>Applications de l'IA</h2>
+        <p>Explorez les nombreuses applications de l'IA, de la médecine à la finance en passant par la science.</p>
+    </section>
+
+    <section id="futur">
+        <h2>Le Futur de l'IA</h2>
+        <p>Plongez dans un futur où l'IA devient omniprésente, améliorant nos vies de manière spectaculaire.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contactez-nous</h2>
+        <p>Pour en savoir plus sur l'IA du futur, contactez notre équipe passionnée.</p>
+        <address>
+            Adresse : 123 Rue du Futur, Ville Futuriste<br>
+            Email : contact@iafutur.com<br>
+            Téléphone : +123 456 7890
+        </address>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 IA du Futur</p>
+    </footer>
+</body>
+</html>
